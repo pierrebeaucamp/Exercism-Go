@@ -2,6 +2,8 @@ package raindrops
 
 import "fmt"
 
+const TestVersion = 1
+
 func Convert(input int) string {
 	var output string;
 
